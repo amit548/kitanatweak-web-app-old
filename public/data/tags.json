@@ -1,0 +1,8 @@
+[
+	{"id": "1", "title": "Better performance", "icon": "whatshot"},
+	{"id": "2", "title": "Better battery life", "icon": "battery_full"},
+	{"id": "3", "title": "Good internet speed", "icon": "wifi"},
+	{"id": "4", "title": "Memory management", "icon": "memory"},
+	{"id": "5", "title": "Kernel optimization", "icon": "ac_unit"},
+	{"id": "6", "title": "Background Free", "icon": "smoke_free"}
+]

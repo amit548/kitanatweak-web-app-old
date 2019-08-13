@@ -1,0 +1,8 @@
+[
+	{"id": "1", "title": "What is Kitana Tweak?", "description": "Kitana Tweak is a modification for android devices that increase the performance, extend battery life, reduce lags on your device. With a clean, fresh user interface"},
+	{"id": "2", "title": "Requirements", "description": "Root access, Busybox installed (only for superSU user), Terminal Emulator application (Not Termux), 5MB free space Of system"},
+	{"id": "3", "title": "Warning!!!", "description": "Your warranty is now void. I am not responsible for bricked devices, dead SD cards, corrupted partition, nuclear disasters. Please do some research before using this mod!"},
+	{"id": "4", "title": "How to install?", "description": "Uninstall Old Version, download Latest zip version, boot into recovery & flash the zip"},
+	{"id": "5", "title": "How to use?", "description": "Open Terminal Emulator application (Not Termux), Type su then Type KITANA Done"},
+	{"id": "6", "title": "How to uninstall?", "description": "For Magisk User:- Open magisk manager > Modules > Select Kitana > Tap to trash icon > Reboot.<br/><br/>For SuperSU user:- Open Terminal > Type su & KITANA > Press u and hit enter > Reboot"}
+]

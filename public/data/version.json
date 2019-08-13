@@ -1,0 +1,247 @@
+[{
+	"id": "1",
+	"title": "V6.0.4",
+	"description": "The latest 15th build, Kitana Tweak for Magisk user.",
+	"file_path": "Kitana_Tweak_v6.0.4.zip",
+	"versionInfo": [
+		"Settings revert back to default after reboot fixed",
+		"WiFi viewer removed from Advanced Options"
+	],
+	"support": {
+		"superSU": false,
+		"magisk": true
+	}
+},
+{
+	"id": "2",
+	"title": "V6.0.3",
+	"description": "The 13th build, Kitana Tweak for Magisk user.",
+	"file_path": "Kitana_Tweak_v6.0.3.zip",
+	"versionInfo": [
+		"Magisk v19++ busybox errors fixed",
+		"Some battery information errors fixed",
+		"WiFi password viewer removed",
+		"Some path changes for optimising performance"
+	],
+	"support": {
+		"superSU": false,
+		"magisk": true
+	}
+},
+{
+	"id": "3",
+	"title": "V6.0.2",
+	"description": "The 12th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_Tweak_V6.0.2(Stable).zip",
+	"versionInfo": [
+		"Files not found exceptions error fixed",
+		"Many dangerous options removed and optimized"
+	],
+	"support": {
+		"superSU": false,
+		"magisk": true
+	}
+},
+{
+	"id": "4",
+	"title": "V6.0.1",
+	"description": "The 11th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_V6.0.1.sh.pdf",
+	"versionInfo": [
+		"initd injector Problems Fixed",
+		"Some Coding Improvement"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "5",
+	"title": "V6.0",
+	"description": "The 10th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_V6.0.sh.pdf",
+	"versionInfo": [
+		"Google Lens",
+		"New Entropy Generator",
+		"New Adblocker",
+		"SYN Attack Protect",
+		"Block Redirects Added",
+		"Avoid Times Added",
+		"Block Routine Added",
+		"Kernel Errors Fix Added",
+		"Ram Cleaner Tweak Added",
+		"Net TCP Tweak Updated",
+		"FPS Unlocked Updated"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "6",
+	"title": "V5.5",
+	"description": "The 9th build, Kitana Tweak for SuperSU user.",
+	"file_path": "Magisk-KITANA-V5.5.zip",
+	"versionInfo": [
+		"Profiles Updated",
+		"Free Frame Mode Updated",
+		"Control Updated",
+		"Apps install Location changer Added",
+		"shortcut: KITANA_WIFI, KITANA_CLEANER",
+		"Multitasking Disabler Readded",
+		"Stop android logging readded",
+		"Ril tweak updated for 4G and LTE"
+	],
+	"support": {
+		"superSU": false,
+		"magisk": true
+	}
+},
+{
+	"id": "7",
+	"title": "V5.0.1",
+	"description": "The 8th big build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_14092017_V5.0.1.zip",
+	"versionInfo": [
+		"Google Drive Space Hack [ Experimental, Not Work For All]",
+		"Google Play Service Doze Mode On",
+		"Hostname Changer",
+		"Controls Updated",
+		"ART Compiler Filters",
+		"DPI Changer",
+		"Free Frame Mode For Android 7x",
+		"Ad Blocker",
+		"View WiFi Saved Passwords",
+		"Working Google Assistant For Android 5x All Credit Goes To Jovic77",
+		"Dashboard Added",
+		"Forced Hotplug For All Governors",
+		"Improve Doze Mode For Android 6x",
+		"LCD Power Reduce",
+		"Disable Location Service [ Recommended Keep It Off ]",
+		"Fixes VM Overuse",
+		"Increase WiFi Auto Scan",
+		"Enable Power Collapse",
+		"Enable Power Supply",
+		"Better Sensor's Management",
+		"Better Deep Sleep",
+		"Write Deferral",
+		"Low Power Mode",
+		"Fast Charging Updated For All Custom Kernel",
+		"Added Deep ipv4 Tuning",
+		"Ril Tweak Updated",
+		"Swap Ping Tendency",
+		"Reduce zip file size 700+KB",
+		"Sleep Time Removed From Wizard",
+		"Flag Tuner & Stop Logging Removed",
+		"Reboot Not Needed After Applying Tweaks, When need Then You Can See Reboot Options",
+		"Reboot Options Updated",
+		"Flash Problems Fixed For Some Devices",
+		"Shortcut Added Fstrim & Boost [ KITANA_BOOST, KITANA_FSTRIM ]",
+		"Busybox simlink",
+		"Portal detecation",
+		"Screen Rotation",
+		"Lock Screen Rotation",
+		"Increase Volume Steps",
+		"Wakelocks Added"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "8",
+	"title": "V4.0",
+	"description": "The 6th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_22075417_V4.0.zip",
+	"versionInfo": [
+		"Governor, TCP And I/O Controls"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "9",
+	"title": "V3.2",
+	"description": "The 5th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_25072017_V3.2.zip",
+	"versionInfo": [
+		"New Profile Mod ( Battery, Balanced, Performance)",
+		"Battery Tweaks Updated",
+		"Kernel Panic Added",
+		"Disable Debugging Added",
+		"initd support Added",
+		"Kernel Tweaks Updated ( Battery , Balanced, performance : 3 way )",
+		"Disable I/O stats added",
+		"Governor Control Coming soon",
+		"Flag Tuner Added",
+		"Performance Tweaks Updated"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},	
+{
+	"id": "10",
+	"title": "V2.0.1.1",
+	"description": "The 4th build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_14072017012556_V2.0.1.1.zip",
+	"versionInfo": [
+		"Battery celebration fixed",
+		"Code Optimized"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "11",
+	"title": "V2.0.1",
+	"description": "The 3rd build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_06072017101057_V2.0.1.zip",
+	"versionInfo": [
+		"GPU Tweak Uninstaller Fixed"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "12",
+	"title": "V2.0",
+	"description": "The 2nd build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_06072017074823_V2.0.zip",
+	"versionInfo": [
+		"Google Assistant Enabled & Disabled Show fixed",
+		"Battery Calibration Fixed",
+		"Battery Saver Updated",
+		"Captured Tuner Updated",
+		"Performance Removing Fixed",
+		"Battery Information fixed for some Devices",
+		"Low Ram Flag Updated"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+},
+{
+	"id": "13",
+	"title": "V1.0",
+	"description": "The 1st initial build, Kitana Tweak for SuperSU user.",
+	"file_path": "KITANA_01072017_V1.0.zip",
+	"versionInfo": [
+		"initial Release"
+	],
+	"support": {
+		"superSU": true,
+		"magisk": false
+	}
+}]
